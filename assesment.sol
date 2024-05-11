@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ErrorHandlingSample {
+contract ErrorSample {
     uint256 public storedData;
 
     function requireSample(uint256 _value) public {
